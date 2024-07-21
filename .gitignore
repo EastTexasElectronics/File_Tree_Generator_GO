@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+ftg-linux
+ftg-macos
+ftg-windows.exe
+ftg.go
